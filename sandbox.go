@@ -5,7 +5,7 @@ import ( "fmt"
 	     
 )
 
-func main () {
+func sanbox () {
      fmt.Println("Welcom to the playground")
      fmt.Println("at" , time.Now())
 }
